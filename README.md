@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zulkifli Raihan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulkifliraihan&label=Profile%20views&color=0e75b6&style=flat" alt="zulkifliraihan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zuran2907" target="blank"><img src="https://img.shields.io/twitter/follow/zuran2907?logo=twitter&style=for-the-badge" alt="zuran2907" /></a> </p>
-
 - I’m currently working **for a Software Engineering based company Pesantren Go Digital by Telkom Indonesia in Jakarta, Indonesia**
 
 - 🌱 I’m currently learning **React, Tailwind, and Golang**
